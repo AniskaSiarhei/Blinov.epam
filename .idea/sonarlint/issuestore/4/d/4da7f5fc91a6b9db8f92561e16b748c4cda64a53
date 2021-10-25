@@ -1,0 +1,9 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "s".(ïÎ»ıøÿÿÿÿ8îÔÜ˜¾/
+L
+java:S2201"*The return value of "concat" must be used.(ëÁÿ“ùÿÿÿÿ8îÔÜ˜¾/
+=
+java:S2129" Remove this "String" constructor(€ğ É8çœŞ˜¾/
+m
+java:S1192"KDefine a constant instead of duplicating this literal " Certified" 3 times.(ëÁÿ“ùÿÿÿÿ8îÔÜ˜¾/
